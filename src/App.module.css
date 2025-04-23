@@ -31,3 +31,23 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+  border-spacing: 0;
+}
+
+td {
+  padding: 0 4px;
+}
+
+.tdAmount {
+  text-align: right;
+}
+
+.tdAlignTop {
+  vertical-align: top;
+}
+
+.trDark {
+  background-color: rgb(230,230,230);
+}
